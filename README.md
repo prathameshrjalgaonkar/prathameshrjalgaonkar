@@ -26,7 +26,7 @@ decision-making, I thrive in collaborative environments and enjoy solving comple
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=plastic&logo=apache-spark&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFCC4D.svg?style=plastic&logo=huggingface&logoColor=black)  
 
 **Cloud & Deployment**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-232F3E?) 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-232F3E) 
 
 **Database & Backend**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  
