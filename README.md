@@ -18,7 +18,7 @@ decision-making, I thrive in collaborative environments and enjoy solving comple
 ## 🔧 Skills
 
 **Languages & Tools**  
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white) ![R](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Power BI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Excel](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-276DC3?style=plastic&logo=r&logoColor=white) ![R](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Power BI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Excel](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)  
 
 **Data Science & Machine Learning**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)  
