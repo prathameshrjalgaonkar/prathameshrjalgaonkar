@@ -1,26 +1,24 @@
-# 👋 Hi, I'm Mohammadreza Mohammadi
+# 👋 Hi, I'm Prathamesh Jalgaonkar
 ### <div>
 Welcome to my GitHub profile!  
-I'm a Dedicated Data Scientist and Machine Learning Engineer with over 6 years of programming experience,
-including 5 years specializing in machine learning and deep learning. Proficient in Python and its
-frameworks, with expertise in building and deploying scalable solutions for predictive modeling, data
-analysis, and real-time applications. Skilled in leveraging cutting-edge technologies such as Docker, AWS,
-and PostgreSQL to deliver efficient and impactful results. Passionate about solving challenging problems,
-driving innovation, and collaborating with teams to transform data into actionable insights.
+I'm a Data Analyst and Researcher with a strong foundation in information systems and extensive hands-on experience in data analysis, 
+visualization, and pipeline automation. With expertise in Python, SQL, and various analytical tools, I specialize in transforming data 
+into actionable insights and creating impactful dashboards. Passionate about leveraging technology to drive innovation and enhance 
+decision-making, I thrive in collaborative environments and enjoy solving complex data challenges.
 </div>
 
 ## 🌟 About Me
 
-- 💼 **Role**: Machine Learning Engineer | Data Scientist  
-- 🌍 **Location**: Tehran, Iran  
-- 🧠 **Interests**: Machine Learning, Deep Learning, Healthcare AI, Natural Language Processing (NLP), and Computer Vision  
-- 💻 **Languages**: Python (main focus), with experience in various ML/DL frameworks like TensorFlow, Keras, and PyTorch  
-- 🌐 **Portfolio Focus**: Healthcare AI, NLP, Computer Vision  
+- 💼 **Role**: Data Analyst | Data Engineer  
+- 🌍 **Location**: San Diego, CA  
+- 🧠 **Interests**: Data Analytics, Big Data Infrastructure, Machine Learning and Cloud Computing
+- 💻 **Languages & Tools**: Python, SQL, R, Power BI, Tableau, Excel and more  
+- 🌐 **Portfolio Focus**: Data Analysis, Pipeline Automation, Data Visualization
 
 ## 🔧 Skills
 
 **Languages & Tools**  
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white) ![R](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Power BI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Excel](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)  
 
 **Data Science & Machine Learning**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)  
